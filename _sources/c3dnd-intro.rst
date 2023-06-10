@@ -16,7 +16,7 @@ to check your solution.
 See the video below for an example.
 
 .. youtube:: Rf7oWHlo-e0
-    :divid: iwgex1-parsons1-p3dnd
+    :divid: iwgex1-parsons1-c3dnd
     :optional:
     :width: 650
     :height: 415
@@ -24,7 +24,7 @@ See the video below for an example.
 
 Try to solve the following mixed-up code problem.  This problem doesn't require any indentation.
 
-.. parsonsprob:: intro-simple-parsons-no-indent-p3dnd
+.. parsonsprob:: intro-simple-parsons-no-indent-c3dnd
    :numbered: left
    :adaptive:
    :practice: T
@@ -41,7 +41,7 @@ Try to solve the following mixed-up code problem.  This problem doesn't require 
 
 Try to solve the following mixed-up code problem. This problem requires indentation.
 
-.. parsonsprob:: intro-simple-parsons-indent-p3dnd
+.. parsonsprob:: intro-simple-parsons-indent-c3dnd
    :numbered: left
    :adaptive:
    :practice: T
@@ -58,7 +58,7 @@ Try to solve the following mixed-up code problem. This problem requires indentat
 
 Try to solve the following mixed-up code problem. This problem requires indentation and has extra blocks that are not needed in a correct solution.
 
-.. parsonsprob:: intro-simple-parsons-indent-with-dist-p3dnd
+.. parsonsprob:: intro-simple-parsons-indent-with-dist-c3dnd
    :numbered: left
    :adaptive:
    :practice: T
@@ -84,7 +84,7 @@ than three blocks left.
 See the video below for an example.
 
 .. youtube:: QejZ7u642IU
-    :divid: iwgex1-parsons2-p3dnd
+    :divid: iwgex1-parsons2-c3dnd
     :optional:
     :width: 650
     :height: 415
@@ -101,7 +101,7 @@ the code area for compiler errors and/or unit test results.
 See the video below for an example.
 
 .. youtube:: w9hTOJ7iJpE
-    :divid: p3dnd-write-code-video-ex
+    :divid: c3dnd-write-code-video-ex
     :optional:
     :width: 1020
     :height: 826
@@ -109,7 +109,7 @@ See the video below for an example.
 
 Finish writing the code for the following problem.
 
-.. activecode:: intro-sample-write-code-triple-p3dnd
+.. activecode:: intro-sample-write-code-triple-c3dnd
     :practice: T
     :autograde: unittest
 
@@ -141,7 +141,7 @@ Finish writing the code for the following problem.
 Feedback
 ==================================
 
-.. shortanswer:: p3dnd-intro-sa
+.. shortanswer:: c3dnd-intro-sa
 
    Please provide feedback here. Please share any comments, problems, or suggestions.
 
@@ -151,7 +151,7 @@ What to do next
 
 .. raw:: html
 
-    <p>Click on the following link to go the practice problems: <a id="p3dnd-practice"><font size="+2">Practice Problems</font></a></p>
+    <p>Click on the following link to go the practice problems: <a id="c3dnd-practice"><font size="+2">Practice Problems</font></a></p>
 
 
 .. raw:: html
@@ -180,10 +180,10 @@ What to do next
 
      window.onload = function() {
 
-        a = document.getElementById("p3dnd-practice")
+        a = document.getElementById("c3dnd-practice")
 
         // get prev set cookie
-        var EXP_COOKIE = 'p3dnd'
+        var EXP_COOKIE = 'c3dnd'
         var cond = getCookie(EXP_COOKIE);
 
         // if no prev set cookie: generate random condition and set cookie
@@ -198,9 +198,9 @@ What to do next
         }
 
         if (cond == 'd') {
-           a.href = "p3dnd-pwd.html"
+           a.href = "c3dnd-pwd.html"
         } else if (cond == 'nd') {
-           a.href = "p3dnd-pnd.html"
+           a.href = "c3dnd-pnd.html"
         }
      };
    </script>

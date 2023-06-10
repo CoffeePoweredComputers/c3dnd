@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'p3dnd'
+project = 'c3dnd'
 copyright = '2023 - Barbara Ericson'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -122,7 +122,7 @@ html_theme = 'sphinx_bootstrap'
 #html_theme_options = {'nosidebar': 'true'}
 html_theme_options = {
     # Navigation bar title. (Default: ``project`` value)
-    'navbar_title': "p3dnd",
+    'navbar_title': "c3dnd",
 
     # Tab name for entire site. (Default: "Site")
     'navbar_site_name': "Chapters",
@@ -170,10 +170,10 @@ html_theme_path = [pkg_resources.resource_filename('runestone', 'common/project_
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'p3dnd'
+html_title = 'c3dnd'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title ='p3dnd'
+html_short_title ='c3dnd'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.

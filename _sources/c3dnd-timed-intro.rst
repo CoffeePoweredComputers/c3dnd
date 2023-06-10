@@ -14,7 +14,7 @@ move to different questions, flag a question to remind yourself to review it lat
 and finish the exam.
 
 .. youtube:: CrydSpPplUQ
-    :divid: intro-timed-exam-p3dnd
+    :divid: intro-timed-exam-c3dnd
     :optional:
     :width: 650
     :align: center
@@ -24,13 +24,13 @@ Practice Timed Exam
 
 Click the start button to take the practice timed exam.
 
-.. timed:: timed_intro_p3dnd
+.. timed:: timed_intro_c3dnd
    :timelimit: 5
    :noresult:
    :nofeedback:
    :nopause:
 
-   .. mchoice:: timed_intro_q1_add_p3dnd
+   .. mchoice:: timed_intro_q1_add_c3dnd
       :practice: T
       :answer_a: 3
       :answer_b: 4
@@ -51,7 +51,7 @@ Click the start button to take the practice timed exam.
         x = 3 + 4
         print(x)
 
-   .. mchoice:: timed_intro_q2_str_upper_p3dnd
+   .. mchoice:: timed_intro_q2_str_upper_c3dnd
       :practice: T
       :answer_a: hi there
       :answer_b: Hi There
@@ -76,7 +76,7 @@ Click the start button to take the practice timed exam.
 Feedback
 ==================================
 
-.. shortanswer:: p3dnd-pre-timed-intro-sa
+.. shortanswer:: c3dnd-pre-timed-intro-sa
 
    Please provide feedback here. Please share any comments, problems, or suggestions.
 
@@ -84,7 +84,7 @@ What to do next
 ============================
 .. raw:: html
 
-    <p>Click on the following link to take the pretest: <b><a id="p3dnd-pretest"><font size="+2">Pre Test</font></a></b></p>
+    <p>Click on the following link to take the pretest: <b><a id="c3dnd-pretest"><font size="+2">Pre Test</font></a></b></p>
 
 .. raw:: html
 
@@ -92,8 +92,8 @@ What to do next
 
       window.onload = function() {
 
-        a = document.getElementById("p3dnd-pretest")
-        a.href = "p3dnd-pretest.html"
+        a = document.getElementById("c3dnd-pretest")
+        a.href = "c3dnd-pretest.html"
 
       };
 

@@ -9,7 +9,7 @@ on it for about five minutes without solving it.
 Problems
 ==============
 
-.. parsonsprob:: p3dnd-sum13-nd
+.. parsonsprob:: c3dnd-sum13-nd
    :adaptive:
    :numbered: left
 
@@ -19,7 +19,7 @@ Problems
    after a 13 to the sum.    Return ``0`` if ``nums`` is the empty list. 
    
     .. table:: 
-          :name: p3dnd-sum13-nd-table
+          :name: c3dnd-sum13-nd-table
           :class: longtable
           :align: left
           :width: 80%
@@ -69,7 +69,7 @@ Problems
    }
 
 
-.. parsonsprob:: p3dnd-sum13-wd
+.. parsonsprob:: c3dnd-sum13-wd
    :adaptive:
    :numbered: left
 
@@ -79,7 +79,7 @@ Problems
    after a 13 to the sum.    Return ``0`` if ``nums`` is the empty list. 
    
     .. table:: 
-          :name: p3dnd-sum13-wd-table
+          :name: c3dnd-sum13-wd-table
           :class: longtable
           :align: left
           :width: 80%
@@ -134,7 +134,7 @@ Problems
    ====
    }
 
-.. parsonsprob:: p3dnd-front-back-nd
+.. parsonsprob:: c3dnd-front-back-nd
    :numbered: left
    :adaptive:
 
@@ -149,7 +149,7 @@ Problems
    For this problem you can assume that that string.h has been included.
   
    .. table:: 
-      :name: p3dnd-front-back-nd-table
+      :name: c3dnd-front-back-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -190,7 +190,7 @@ Problems
    =====
    }
 
-.. parsonsprob:: p3dnd-front-back-wd
+.. parsonsprob:: c3dnd-front-back-wd
    :numbered: left
    :adaptive:
 
@@ -203,7 +203,7 @@ Problems
    * Otherwise return ``"n"``.
   
    .. table:: 
-      :name: p3dnd-front-back-wd-table
+      :name: c3dnd-front-back-wd-table
       :widths: 70 30
       :class: longtable
       :align: left
@@ -248,7 +248,7 @@ Problems
    }
 
 
-.. parsonsprob:: p3dnd-bob-there-nd
+.. parsonsprob:: c3dnd-bob-there-nd
    :numbered: left
    :adaptive:
 
@@ -257,7 +257,7 @@ Problems
    middle 'o' char can be any char. Otherwise it returns ``False``.
 
    .. table:: 
-      :name: p3dnd-bob-there-nd-table
+      :name: c3dnd-bob-there-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -288,7 +288,7 @@ Problems
    =====
    } // end bobThere
 
-.. parsonsprob:: p3dnd-bob-there-wd
+.. parsonsprob:: c3dnd-bob-there-wd
    :numbered: left
    :adaptive:
 
@@ -297,7 +297,7 @@ Problems
    middle 'o' char can be any char. Otherwise it returns ``False``.
 
    .. table:: 
-      :name: p3dnd-bob-there-wd-table
+      :name: c3dnd-bob-there-wd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -334,7 +334,7 @@ Problems
    =====
    } // end bobThere
 
-.. parsonsprob:: p3dnd-palindrome-number-nd
+.. parsonsprob:: c3dnd-palindrome-number-nd
    :numbered: left
    :adaptive:
 
@@ -343,7 +343,7 @@ Problems
    if the digits read the same backwards as forwards.
 
    .. table:: 
-      :name: p3dnd-palindrome-number-nd-table
+      :name: c3dnd-palindrome-number-nd-table
       :class: longtable
       :align: left
       :width: 80%
@@ -383,7 +383,7 @@ Problems
    =====
    }
 
-.. parsonsprob:: p3dnd-palindrome-number-wd
+.. parsonsprob:: c3dnd-palindrome-number-wd
    :numbered: left
    :adaptive:
 
@@ -392,7 +392,7 @@ Problems
    if the digits read the same backwards as forwards.
 
    .. table:: 
-      :name: p3dnd-palindrome-number-wd-table
+      :name: c3dnd-palindrome-number-wd-table
       :class: longtable
       :align: left
       :width: 80%

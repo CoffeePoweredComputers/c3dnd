@@ -14,50 +14,50 @@ Problems
    :nofeedback:
    :nopause:
 
-   .. selectquestion:: p3dnd-pre-1
+   .. selectquestion:: c3dnd-pre-1
       :fromid: pretest_cond_with_funcs
       :points: 1
 
-   .. selectquestion:: p3dnd-pre-2
+   .. selectquestion:: c3dnd-pre-2
       :fromid: pretest-type-compare
       :points: 1
 
-   .. selectquestion:: p3dnd-pre-3-v2
+   .. selectquestion:: c3dnd-pre-3-v2
       :fromid: pretest-mult-if
       :points: 1
 
-   .. selectquestion:: p3dnd-pre-4
+   .. selectquestion:: c3dnd-pre-4
       :fromid: pretest_complex_list_string
       :points: 1
 
-   .. selectquestion:: p3dnd-pre-5
+   .. selectquestion:: c3dnd-pre-5
       :fromid: pretest_sum_with_range
       :points: 1
 
-   .. selectquestion:: p3dnd-pre-6
+   .. selectquestion:: c3dnd-pre-6
       :fromid: pretest_string_abbrev
       :points: 1
 
-   .. selectquestion:: p3dnd-pre-7
+   .. selectquestion:: c3dnd-pre-7
       :fromid: pretest_sum_with_mod
       :points: 1
 
-   .. selectquestion:: p3dnd-pre-8
+   .. selectquestion:: c3dnd-pre-8
       :fromid: pretest-while-str-concat
       :points: 1
 
-   .. selectquestion:: p3dnd-pre-9
+   .. selectquestion:: c3dnd-pre-9
       :fromid: pretest-break-cont-str-cont
       :points: 1
 
-   .. selectquestion:: p3dnd-pre-10
+   .. selectquestion:: c3dnd-pre-10
       :fromid: pretest-string-slice-neg
       :points: 1
 
 Feedback
 ==================================
 
-.. shortanswer:: p3dnd-pre-sa
+.. shortanswer:: c3dnd-pre-sa
 
    Please provide feedback here. Please share any comments, problems, or suggestions.
 

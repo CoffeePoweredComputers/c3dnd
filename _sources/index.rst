@@ -39,7 +39,7 @@ What to do next
 ============================
 .. raw:: html
 
-    <p>Click on the following link to take the pre survey : <b><a id="p3dnd-survey"> <font size="+2">Pre Survey</font></a></b></p>
+    <p>Click on the following link to take the pre survey : <b><a id="c3dnd-survey"> <font size="+2">Pre Survey</font></a></b></p>
 
 .. raw:: html
 
@@ -47,8 +47,8 @@ What to do next
 
       window.onload = function() {
 
-        a = document.getElementById("p3dnd-survey")
-        a.href = "p3dnd-presurvey.html"
+        a = document.getElementById("c3dnd-survey")
+        a.href = "c3dnd-presurvey.html"
       };
 
     </script>
