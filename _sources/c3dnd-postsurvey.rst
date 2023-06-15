@@ -28,7 +28,7 @@ Please answer the following questions.
 
 .. shortanswer:: c3dnd-post-6-hours
 
-   About how many hours have you been programming in Python?
+   About how many hours have you been programming in C?
 
 .. shortanswer:: c3dnd-post-7-langs
 
@@ -63,3 +63,8 @@ Please answer the following questions.
 A mixed-up code (Parsons) problem.
 
 .. image:: https://i.postimg.cc/wBFZ98zz/parsons.png
+
+
+Thank You
+============================
+Thank you for taking part in this study!  We appreciate your time on this.

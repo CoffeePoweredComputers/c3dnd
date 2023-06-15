@@ -109,34 +109,25 @@ See the video below for an example.
 
 Finish writing the code for the following problem.
 
-.. activecode:: intro-sample-write-code-triple-c3dnd
-    :practice: T
-    :autograde: unittest
+.. activecode:: intro-sample-write-code-triple-ps
+    :language: c
 
-    Write a function called ``triple(num)`` that takes a number ``num`` and
+    Write a function called ``triple(int num)`` that takes a number ``num`` and
     returns the number times 3. For example, ``triple(2)`` should return 6 and
-    ``triple(-1)`` should return -3.  Look below the code to check for any
-    compiler errors or the results
-    from the test cases.  Be sure to ``return`` the result.
+    ``triple(-1)`` should return -3. 
     ~~~~
-    def triple(num):
-        # write code here
+    #include<stdio.h>
 
-    print(triple(2))
-    print(triple(-1))
+    int triple(int num) {
+        // write code here    
+    }
 
-    ====
-    from unittest.gui import TestCaseGui
-    class myTests(TestCaseGui):
+    int main() {
+        printf("%d\n", triple(2));
+        printf("%d\n",triple(-1));
 
-        def testOne(self):
-            self.assertEqual(triple(2),6,"triple(2)")
-            self.assertEqual(triple(3),9,"triple(3)")
-            self.assertEqual(triple(-1),-3,"triple(-1)")
-            self.assertEqual(triple(0),0,"triple(0)")
-            self.assertEqual(triple(11),33,"triple(11)")
-
-    myTests().main()
+        return 0;
+    }
 
 Feedback
 ==================================

@@ -1,5 +1,5 @@
 ========================================================
-Python 3 with Lists, Loops, Conditionals, and Functions
+C with Lists, Loops, Conditionals, and Functions
 ========================================================
 
 .. Here is were you specify the content and order of your new book.
@@ -26,12 +26,13 @@ on it for about five minutes without solving it.
 
 If you have questions about this study please email Dr. Barbara Ericson at barbarer@umich.edu.
 
-The four parts are:
+The five parts are:
 
 - Pre Survey - Questions about your experience and confidence in computing
 - Introduction - Materials to get you familiar with the types of problems in this study
 - Practice - Practice problems
 - Post Test - Post test problems
+- Post Survey - Questions about demographics and program of study
 
 Click on the link at the end of each page to get to the next part.
 
