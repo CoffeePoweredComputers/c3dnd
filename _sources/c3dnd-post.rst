@@ -98,6 +98,34 @@ Problems
       // TODO
    }
 
+.. activecode:: c3dnd-post-almost-palindrome
+   :language: c
+
+   Write the function ``int isAlmostPalindrome(char* x)`` that takes a string, ``x``, and returns
+   ``1`` if x can be a palindrome after deleting at most one character from it,
+   and ``0`` otherwise.   A string is a palindrome if the characters read the
+   same backwards as forwards.
+
+   .. table::
+      :name: c3dnd-post-almost-palindrome-table
+      :class: longtable
+      :align: left
+      :width: 80%
+
+      +----------------------------------+------------------------------------+
+      | Example Input                    | Expected Output                    |
+      +==================================+====================================+
+      |``isAlmostPalindrome("aba")``     | ``1``                              |
+      +----------------------------------+------------------------------------+
+      |``isAlmostPalindrome("abca")``    | ``1``                              |
+      +----------------------------------+------------------------------------+
+      |``isAlmostPalindrome("abc")``     | ``0``                              |
+      +----------------------------------+------------------------------------+
+   ~~~~
+   int isAlmostPalindrome(char* x)``{
+      // TODO
+   }
+
 Feedback
 ==================================
 
