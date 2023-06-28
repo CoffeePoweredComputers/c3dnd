@@ -44,28 +44,27 @@ Problems
 .. activecode:: c3dnd-post-is-descending
    :language: c
 
-    Write a function ``int is_descending(int* nums)`` to do the following.
+   Write a function ``int is_descending(int* nums)`` to do the following.
 
-    * Return ``1`` if the  numbers in the list ``nums`` are sorted in descending order.
-    * Otherwise return ``0``.
-    * If the list ``nums`` has less than two numbers in it return ``1``.
+   * Return ``1`` if the  numbers in the list ``nums`` are sorted in descending order.
+   * Otherwise return ``0``.
+   * If the list ``nums`` has less than two numbers in it return ``1``.
 
-    .. table::
-       :name: p3dnd_is_ascending_ac-table
-       :class: longtable
-       :align: left
-       :width: 80%
+   .. table::
+      :name: p3dnd_is_ascending_ac-table
+      :class: longtable
+      :align: left
+      :width: 80%
 
-        +----------------------------------+------------------------------------+
-        | Example Input                    | Expected Output                    |
-        +==================================+====================================+
-        |``is_descending({2,3,4})``        | ``0``                              |
-        +----------------------------------+------------------------------------+
-        |``is_descending({1})``            | ``1``                              |
-        +----------------------------------+------------------------------------+
-        |``is_descending({4,3,2})``        | ``1``                              |
-        +----------------------------------+------------------------------------+
-   
+      +----------------------------------+------------------------------------+
+      | Example Input                    | Expected Output                    |
+      +==================================+====================================+
+      |``is_descending({2,3,4})``        | ``0``                              |
+      +----------------------------------+------------------------------------+
+      |``is_descending({1})``            | ``1``                              |
+      +----------------------------------+------------------------------------+
+      |``is_descending({4,3,2})``        | ``1``                              |
+      +----------------------------------+------------------------------------+
    ~~~~
    int is_descending(int* nums){
       // TODO
